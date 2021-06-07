@@ -18,4 +18,4 @@ Link / Expiration Date.
 Get more private servers: https://fireboydev.github.io/jailbreak-private-servers/ Youtube: http://animacao.tk/
 ```
 
-<link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/697147244218024077/851453828318232596/fireboydev.ico.ico" />=
+<link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/697147244218024077/851453828318232596/fireboydev.ico.ico" />
