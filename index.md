@@ -20,4 +20,4 @@ Get more private servers: https://fireboydev.github.io/home/ Youtube: http://ani
 
 Enjoy the 8 private Links! More coming soon.
 
-<https://cdn.discordapp.com/attachments/703761853779673159/851478803636289566/favicon.ico rel="icon" href="favicon.ico" type="image/x-icon" />
+<https://cdn.discordapp.com/attachments/703761853779673159/851478803636289566/favicon.ico/ rel="icon" href="favicon.ico" type="image/x-icon" />
